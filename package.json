@@ -1,0 +1,17 @@
+{
+  "name": "app-console-todo",
+  "version": "1.0.0",
+  "description": "Aplicacion de consola que permite administrar tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gareis.dev",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.5",
+    "uuid": "^8.3.2"
+  },
+  "keywords": []
+}
